@@ -1,0 +1,8 @@
+<resources>
+    <string name = "app_name">GarbageV8</string>
+    <string name = "text_head">Garbage sorting</string>
+    <string name = "text_where">Where to place garbage:</string>
+    <string name = "text_hint">Type garbage to sort...</string>
+    <string name = "text_btn_where">Where</string>
+    <string name = "text_btn_delete">Delete</string>
+</resources>
